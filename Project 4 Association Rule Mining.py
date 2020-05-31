@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Association Rule Mining - Raktim Mukhopadhyay - ASU ID- 1217167380
 
 # In[1]:
 
